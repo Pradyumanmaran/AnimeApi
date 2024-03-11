@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnimeApi/static/css/main.0eaf9e65.css",
+    "main.js": "/AnimeApi/static/js/main.9448effd.js",
+    "static/js/453.ed3e417d.chunk.js": "/AnimeApi/static/js/453.ed3e417d.chunk.js",
+    "index.html": "/AnimeApi/index.html",
+    "main.0eaf9e65.css.map": "/AnimeApi/static/css/main.0eaf9e65.css.map",
+    "main.9448effd.js.map": "/AnimeApi/static/js/main.9448effd.js.map",
+    "453.ed3e417d.chunk.js.map": "/AnimeApi/static/js/453.ed3e417d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eaf9e65.css",
+    "static/js/main.9448effd.js"
+  ]
+}
